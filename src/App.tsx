@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ThemeProvider } from './contexts/ThemeContext';
 import { Toaster } from 'react-hot-toast';
 import Navigation from './components/Navigation';
